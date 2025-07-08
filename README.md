@@ -30,3 +30,13 @@ Connects to a remote network via Twingate or OpenVPN (optional).
 ```bash
 chmod +x ec2-start-stop.sh
 ./ec2-start-stop.sh start i-xxxxxxxxxxxx
+
+
+
+
+## 🧠 Author
+
+**Abhilash Makode**  
+Cloud & DevOps Engineer | AWS | Linux | CI/CD  
+📧 abhi.mack3@gmail.com  
+🔗 [GitHub](https://github.com/abmackk)  
