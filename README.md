@@ -38,4 +38,3 @@ chmod +x ec2-start-stop.sh
 # Example usage
 ./ec2-start-stop.sh start i-0123456789abcdef0
 ./backup-postgres.sh mydb mybucket-name
-
