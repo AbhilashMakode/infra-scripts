@@ -38,3 +38,13 @@ chmod +x ec2-start-stop.sh
 # Example usage
 ./ec2-start-stop.sh start i-0123456789abcdef0
 ./backup-postgres.sh mydb mybucket-name
+```
+
+---
+
+## 🧠 Author
+
+Abhilash Makode  
+📧 abhilash.makode@outlook.com  
+🔗 [GitHub – AbhilashMakode](https://github.com/AbhilashMakode)  
+📂 [Repo Link](https://github.com/AbhilashMakode/infra-scripts/)
